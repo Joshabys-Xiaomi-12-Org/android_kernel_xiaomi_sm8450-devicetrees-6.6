@@ -118,7 +118,7 @@
 };
 
 &battery_charger {
-	qcom,thermal-mitigation = <3000000 1500000 1000000 500000>;
+	qcom,thermal-mitigation = <2500000 1800000 1200000 600000>;
 	qcom,wireless-fw-name = "idt9415.bin";
 };
 
