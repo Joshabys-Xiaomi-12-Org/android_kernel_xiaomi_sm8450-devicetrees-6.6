@@ -607,7 +607,7 @@
 			};
 
 			cpu7_emerg0: cpu7-emerg0-cfg {
-				temperature = <110000>;
+				temperature = <100000>;
 				hysteresis = <10000>;
 				type = "passive";
 			};
@@ -645,7 +645,7 @@
 			};
 
 			cpu7_emerg1: cpu7-emerg1-cfg {
-				temperature = <110000>;
+				temperature = <100000>;
 				hysteresis = <10000>;
 				type = "passive";
 			};
@@ -683,7 +683,7 @@
 			};
 
 			cpu7_emerg2: cpu7-emerg2-cfg {
-				temperature = <110000>;
+				temperature = <100000>;
 				hysteresis = <10000>;
 				type = "passive";
 			};
@@ -721,7 +721,7 @@
 			};
 
 			gpu0_tj_cfg: tj_cfg {
-				temperature = <95000>;
+				temperature = <88000>;
 				hysteresis = <5000>;
 				type = "passive";
 			};
@@ -759,7 +759,7 @@
 			};
 
 			gpu1_tj_cfg: tj_cfg {
-				temperature = <95000>;
+				temperature = <88000>;
 				hysteresis = <5000>;
 				type = "passive";
 			};
